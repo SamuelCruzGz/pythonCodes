@@ -41,6 +41,8 @@ Print the three lines as explained above.
 
 ### Explanation 0
 
-3 + 2 :fa-long-arrow-right: 5
-3 - 1 :fa-long-arrow-right: 1
-3 * 2 :fa-long-arrow-right: 6
+3 + 2 ➡️ 5 <br>
+3 - 1 ➡️ 1 <br>
+3 * 2 ➡️ 6 
+
+
