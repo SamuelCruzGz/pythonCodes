@@ -1,4 +1,5 @@
-# Task
+# Python:Division
+## Task
 The provided code stub reads two integers, _a_ and _b_, from STDIN.
 
 Add logic to print two lines. The first line should contain the result of integer division, _a_ // _b_. The second line should contain the result of float division, _a_ / _b_.

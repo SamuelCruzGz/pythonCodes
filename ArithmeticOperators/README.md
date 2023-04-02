@@ -1,4 +1,5 @@
-# Task
+# Arithmetic Operators
+## Task
 The provided code stub reads two integers from STDIN, _a_ and _b_. Add code to print three lines where:
 
 1. The first line contains the sum of the two numbers.
